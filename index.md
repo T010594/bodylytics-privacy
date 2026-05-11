@@ -123,7 +123,7 @@ aktuelle Fassung ist immer hier abrufbar.
 
 ## 10. Kontakt
 
-Fragen zum Datenschutz? Schreibe an [E-Mail].
+Fragen zum Datenschutz? Schreibe an info@liftcode.de
 
 ---
 
