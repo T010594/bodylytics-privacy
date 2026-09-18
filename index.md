@@ -182,7 +182,7 @@ Deine Daten liegen bei dir. Deshalb kannst du die meisten Rechte direkt in der A
 - **Einsehen und mitnehmen:** Alle Daten siehst du in der App. Unter Ich → DATEN exportierst du sie als JSON- oder CSV-Datei, mit Premium zusätzlich als PDF-Bericht.
 - **Berichtigen:** Jeden Eintrag kannst du bearbeiten.
 - **Einzelnes löschen:** Check-ins, Fotos und Ziele lassen sich einzeln löschen.
-- **Alles löschen:** Unter Ich → INFO → Datenschutz → „Alle Daten löschen“ entfernt die App nach zweimaliger Bestätigung sämtliche Einträge, Ziele, Fotos, dein Profil, die Einstellungen, geplante Erinnerungen und die automatischen Backup-Dateien, lokal wie in iCloud Drive. Ist der iCloud-Sync eingeschaltet, wird die Löschung auch in deine iCloud und auf deine anderen Geräte übertragen. Ein laufendes Abo bleibt davon unberührt.
+- **Alles löschen:** Unter Ich → INFO → Datenschutz → „Alle Daten löschen“ entfernt die App nach zweimaliger Bestätigung sämtliche Einträge, Ziele, Fotos, dein Profil, die Einstellungen, geplante Erinnerungen und die automatischen Backup-Dateien, lokal wie in iCloud Drive. Ist der iCloud-Sync eingeschaltet, überträgt die App die Löschung in der Regel auch in deine iCloud und damit auf deine anderen Geräte. Danach ist der Sync auf diesem Gerät wieder ausgeschaltet. Garantieren können wir die Übertragung nicht, etwa wenn das iPhone gerade offline ist. Prüfe deshalb im Zweifel in den iOS-Einstellungen, ob in deiner iCloud noch Daten der App liegen (siehe unten). Ein laufendes Abo bleibt von der Löschung unberührt.
 
 Was außerhalb der App liegt, verwaltest du in iOS:
 
