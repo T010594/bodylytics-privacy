@@ -5,7 +5,7 @@ description: "Datenschutzerklärung der iPhone-App BodyLytics"
 
 # Datenschutzerklärung für die App BodyLytics
 
-_Stand: 18.09.2026 · App-Version 1.0_
+_Stand: 23.09.2026 · App-Version 1.0_
 
 BodyLytics ist eine iPhone-App, mit der du Gewicht, Körperfettanteil und Umfänge festhältst und deinen Trend verfolgst. Auf dieser Seite steht, welche Daten die App verarbeitet, wo sie liegen und wie du sie wieder löschst.
 
@@ -108,7 +108,6 @@ BodyLytics fragt den Lesezugriff auf diese Datenarten an:
 
 - Gewicht
 - Körperfettanteil
-- Körpergröße
 - Aktive Energie
 - Ruheenergie
 - Ernährungsenergie (aufgenommene Kalorien, etwa aus einer Kalorienzähler-App)
